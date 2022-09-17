@@ -1,2 +1,2 @@
 # Trivia de Python
-https://replit.com/@FrankCano/TriviaPython
+[demo]https://replit.com/@FrankCano/TriviaPython
